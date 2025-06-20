@@ -11,7 +11,7 @@ os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
 os.environ["HF_HOME"] = "D:/video_summarisation/cache"  # Custom cache directory
 
 # Set Hugging Face authentication token
-os.environ["HUGGING_FACE_HUB_TOKEN"] = "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"
+os.environ["HUGGING_FACE_HUB_TOKEN"] = "your_token"
 
 # Initialize the speaker diarization pipeline
 diarization_pipeline = Pipeline.from_pretrained(
