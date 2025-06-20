@@ -1,0 +1,30 @@
+Summary of Conversation:
+we are asked to give a presentation on how are you good morning I am fine what about you do you know about the information would you mind telling me about it there is a meeting this Sunday . we will be asked to present the challenges that we face in our everyday work on the steps we take to resolve the problems with the solution the presentation will be followed by an open discussion where you can discuss other like music to my ear .
+
+Detected Genre: Meeting
+
+Plan of Action:
+- Summarize key action points discussed in the meeting.
+
+Number of Speakers: 2
+
+Speaker-wise Transcriptions:
+0.03 2.21 SPEAKER_01 how are you
+1.65 5.85 SPEAKER_00 good morning I am fine what about you
+6.19 8.67 SPEAKER_01 do you know about the
+9.28 13.68 SPEAKER_00 information would you mind telling me about it
+13.92 18.46 SPEAKER_01 there is a meeting this Sunday where we are asked to give a presentation
+18.69 21.07 SPEAKER_00 do we have to present
+21.46 26.46 SPEAKER_01 the challenges that we face in our everyday work on the steps we take to resolve
+26.42 30.07 SPEAKER_00 who is the discuss the problems with the solution
+30.42 35.87 SPEAKER_01 the presentation will be followed by an open discussion where you can discuss other
+35.87 38.71 SPEAKER_00 like music to my ear
+39.67 43.64 SPEAKER_01 seems you have been looking for this opportunity for accounts age
+43.92 48.31 SPEAKER_00 anyway I need to prepare for the same
+48.39 51.94 SPEAKER_01 if you need any help feel free to approach
+52.21 54.12 SPEAKER_00 thanks
+
+Overall Sentiment Analysis:
+Polarity: 0.15462962962962964
+Subjectivity: 0.41111111111111115
+Tone: Positive
